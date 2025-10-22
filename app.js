@@ -55,3 +55,5 @@ function initApp() {
   // Indsæt al HTML på én gang
   moviesSection.innerHTML = movieHTML;
 }
+
+/* er kommet til step 3 i DEL 3.1 */
